@@ -10,3 +10,7 @@ Utiliser un ***JSON*** réferençant vos compétences informatiques afin de cré
 Le niveau de compétence devra etre representé par des étoiles.
 
 # /!\ Ne pas utiliser l'Ajax.
+
+Tuto d'exmple : https://scotch.io/tutorials/use-ejs-to-template-your-node-application 
+
+
