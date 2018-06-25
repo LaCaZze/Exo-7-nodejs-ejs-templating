@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/LaCaZze/Exo-7-nodejs-ejs-templating#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
-    "nodemon": "^1.17.5"
+    "nodemon": "^1.17.5",
+    "request": "^2.87.0"
   }
 }

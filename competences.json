@@ -1,0 +1,51 @@
+[
+    {
+        "competence": "JS",
+        "niveau" : "1"
+    },
+
+    {
+        "competence": "Java",
+        "niveau" : "2"
+    },
+
+    {
+        "competence": "C",
+        "niveau" : "3"
+    },
+
+    {
+        "competence": "C++",
+        "niveau" : "4"
+    },
+
+    {
+        "competence": "Python",
+        "niveau" : "5"
+    },
+
+    {
+        "competence": "Ruby",
+        "niveau" : "6"
+    },
+
+    {
+        "competence": "html",
+        "niveau" : "3"
+    },
+
+    {
+        "competence": "css",
+        "niveau" : "5"
+    },
+
+    {
+        "competence": "Bootstrap",
+        "niveau" : "6"
+    },
+
+    {
+        "competence": "jQuery",
+        "niveau" : "3"
+    }
+]
